@@ -11,13 +11,13 @@ Rename your text file to "domains.txt" and place it to the same folder as the sc
 Then simply run the following command for showing you the result in terminal:
 
 ```
-bash Bulk_Domain_Checker.sh domains.txt
+bash BulkDC.sh domains.txt
 ```
 
 You can also Use the following command to save the result in a text file:
 
 ```
-bash Bulk_Domain_Checker.sh domains.txt >> results.txt
+bash BulkDC.sh domains.txt >> results.txt
 ```
 ## Copyright
 Give Me The Rights If You are Using all/some Parts of My Code!
